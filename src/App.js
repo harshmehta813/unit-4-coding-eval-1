@@ -1,8 +1,7 @@
+import React from "react";
 import "./styles.css";
 import data from "./data.json";
-import car from "./Components/Car";
-import { render } from "react-dom";
-import React from "react";
+import carDetails from "./Components/CarDetails";
 
 export default class App extends React.Component {
   constructor(props) {
@@ -48,6 +47,14 @@ export default class App extends React.Component {
             </button>
           ))}
         </div>
+        <div>
+          Price{" "}
+          {["ascending", "descending"].map((order) => (
+            <button key={order} onClick={() => this.handleSort(order)}>
+              {order}
+            </button>
+          ))}
+        </div>
         {data
           .filter(({ year, type }) => {
             const { SUV, Hatchback, Sedan } = type;
@@ -73,7 +80,7 @@ export default class App extends React.Component {
             }
           })
           .map((item) => (
-            <car data={item} key={item.id} />
+            <carDetails data={item} key={item.id} />
           ))}
       </div>
     );

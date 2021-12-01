@@ -1,6 +1,6 @@
 import React from "react";
 
-const car = (props) => {
+const carDetails = (props) => {
   const {
     name,
     type: { SUV, Hatchback, Sedan },
@@ -29,4 +29,4 @@ const car = (props) => {
   );
 };
 
-export default car;
+export default carDetails;

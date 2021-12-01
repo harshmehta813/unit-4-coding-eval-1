@@ -52,7 +52,15 @@
     "name": "Hyundai Creta",
     "type": "SUV",
     "year": "2021",
-    "Price": "549000",
+    "Price": "1016000",
     "image": "https://www.hyundai.com/content/dam/hyundai/in/en/data/find-a-car/Creta/360/phantom-black/pc/phantom-black_6.png"
+  },
+  {
+    "id": "8",
+    "name": "Toyota Fortuner",
+    "type": "SUV",
+    "year": "2021",
+    "Price": "3073000",
+    "image": "https://static.toyotabharat.com/images/showroom/fortuner/fortuner-mmc/gallery01.jpg"
   }
 ]

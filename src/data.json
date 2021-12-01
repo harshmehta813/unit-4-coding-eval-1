@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "name": "Tata Punch",
+    "type": "SUV",
+    "year": "2021",
+    "Price": "549000",
+    "image": "https://cars.tatamotors.com/images/punch/gallery/punch-front-view-banner.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Tata Altroz",
+    "type": "Hatchback",
+    "year": "2020",
+    "Price": "590000",
+    "image": "https://cars.tatamotors.com/images/altroz/gallery/20.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Honda City",
+    "type": "Sedan",
+    "year": "2020",
+    "Price": "1116206",
+    "image": "https://www.hondacarindia.com/areas/city2020/content/desktop/images/home-banner.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Suzuki Baleno",
+    "type": "Hatchback",
+    "year": "2021",
+    "Price": "599000",
+    "image": "https://nexaprod5.azureedge.net/-/media/feature/nexawebsitecarbrand/the-new-ciaz/hi5-_car/baleno590x352.png?modified=20190820152334"
+  },
+  {
+    "id": "5",
+    "name": "Hundai i20 N Line",
+    "type": "Hatchback",
+    "year": "2021",
+    "Price": "984100",
+    "image": "https://www.hyundai.com/content/dam/hyundai/in/en/data/find-a-car/i20-n-line/360/blue-black-dual-tone/pc/blue-black-dual-tone_5.png"
+  },
+  {
+    "id": "6",
+    "name": "Suzuki Ciaz",
+    "type": "Sedan",
+    "year": "2021",
+    "Price": "872000",
+    "image": "https://nexaprod2.azureedge.net/-/media/feature/nexawebsitecarbrand/ciaz/banner/original-car1.png?modified=20210615025022"
+  },
+  {
+    "id": "7",
+    "name": "Hyundai Creta",
+    "type": "SUV",
+    "year": "2021",
+    "Price": "549000",
+    "image": "https://www.hyundai.com/content/dam/hyundai/in/en/data/find-a-car/Creta/360/phantom-black/pc/phantom-black_6.png"
+  }
+]
